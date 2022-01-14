@@ -16,7 +16,7 @@ Most of my projects are released as open-source on GitHub:
 [⏩ &nbsp; and many more](https://github.com/NebulaFX?tab=repositories) 
 
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages;&nbsp;and&nbsp;Frameworks;&nbsp;</b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Frameworks&nbsp;</b></summary>
   <br/>
   <p align="left"> <a href="https://expressjs.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" alt="c#" width="40" height="40"/> <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/> <a href="https://nodejs.org/en/" target="_blank"> <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="node" width="40" height="40"/></a>
 </details>
