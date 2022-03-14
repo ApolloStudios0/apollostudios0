@@ -2,7 +2,8 @@
 This is my home, my kingdom, my little project sandbox :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently studying to take my CLF-C01 AWS Cloud Certification, Azure AZ-900 Certification & Working Towards ZScaler Certifications In The Near Future.
+- 🌱 &nbsp;I’m currently studying to take my CLF-C01 AWS Cloud Certification, Azure AZ-900 Certification.
+- 🌐 I'm also learning HTML & TailwindCSS for front-end web design.
 - 💬 &nbsp;Ask me about anything related to AWS, C#, WPF or WinForms
 
 I am a Software Developer with 2+ years of experience in developing enterprise applications and open-source software.
