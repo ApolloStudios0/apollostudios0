@@ -6,7 +6,7 @@ This is my home, my kingdom, my little project sandbox :rofl:
 - 🌐 I'm also learning HTML & TailwindCSS for front-end web design.
 - 💬 &nbsp;Ask me about anything related to AWS, C#, WPF or WinForms
 
-I am a Software Developer with 2+ years of experience in developing enterprise applications and open-source software.
+I am a Software Developer with 4+ years of experience in developing enterprise applications and open-source software.
 
 ### My Opensource Story
 Most of my projects are released as open-source on GitHub:
