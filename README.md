@@ -2,14 +2,16 @@
 This is my home, my kingdom, my little project sandbox :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently studying to take my CLF-C01 AWS Cloud Certification, Azure AZ-900 Certification.
-- 🌐 I'm also learning HTML & TailwindCSS for front-end web design.
-- 💬 &nbsp;Ask me about anything related to AWS, C#, WPF or WinForms
+- 🌱 &nbsp;Certified In Development Operations & Software Development
+- 🌐 Fluent in HTML, CSS & Several JS Frameworks For Front-End Web Development
+- 💬 &nbsp;Ask me about anything related to AWS, Azure, C#, JS, Lua, WPF or WinForms
+- 👨‍💻 Tech Stack: Lua, C#, Java, JavaScript, HTML & CSS
 
-I am a Software Developer with 4+ years of experience in developing enterprise applications and open-source software.
+- I am a Software Developer with 4+ years of experience in developing enterprise applications and open-source software.
+- Due to my work contract, most of regular projects are closed-source or hosted on an Azure Platform seperate from GitHub.
 
 ### My Opensource Story
-Most of my projects are released as open-source on GitHub:
+My projects released as open-source on GitHub (This is not even close to the amount I work on daily!):
 - [OctoSync](https://github.com/NebulaFX/OctoSync) - This is a project which connects multiple physical EPOS terminals together via asynchronous SQL operations. In a nutshell, you enter the "Client" connection string, then enter the "server" connection string. It will sync an EPOS stock table betweeen the two stores based on: Product Name, Internal Reference Code or Supplier Code. Once the full upload has been completed, the tables are kept up-to-date in live time.
 - [Influx](https://github.com/NebulaFX/PremierEPOS_InfluxTicketing) - This is a business specific, bestoke application built for the purpose of logging customer complaints, queries and being used a base for development suggestions. Its a glorified ticketing system that breaks down a customers profile into: Invoices, PDA Connections, Terminals, License Key Adjustments and other useful support tools.
 -  [Express Inventory](https://github.com/NebulaFX/-In-Dev-Express-Inventory) - Express Inventory is a modern inventory, replenishment and order management system for growing businesses. This is combined with a Key Management Server (AWS) to assist in providing secure transactions and user authentication.
