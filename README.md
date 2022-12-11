@@ -3,7 +3,7 @@ This is my home, my kingdom, my little project sandbox :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;Certified In Development Operations & Software Development
-- 🌐 Fluent in HTML, CSS & Several JS Frameworks For Front-End Web Development
+- 🌐 Profecient in HTML, CSS & Several JS Frameworks For Front-End Web Development
 - 💬 &nbsp;Ask me about anything related to AWS, Azure, C#, JS, Lua, WPF or WinForms
 - 👨‍💻 Tech Stack: Lua, C#, Java, JavaScript, HTML & CSS
 
