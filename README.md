@@ -8,7 +8,7 @@ This is my home, my kingdom, my little project sandbox :rofl:
 - 👨‍💻 Tech Stack: Lua, C#, Java, JavaScript, HTML & CSS
 
 - I am a Software Developer with 4+ years of experience in developing enterprise applications and open-source software.
-- Due to my work contract, most of regular projects are closed-source or hosted on an Azure Platform seperate from GitHub.
+- Due to my work, most of regular projects are closed-source or hosted on an external Platform seperate from GitHub.
 
 ### My Opensource Story
 My projects released as open-source on GitHub (This is not even close to the amount I work on daily!):
