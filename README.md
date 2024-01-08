@@ -8,6 +8,7 @@ This is my home, my kingdom, my little project sandbox :rofl:
 - 👨‍💻 Tech Stack: Lua, C#, Java, JavaScript, HTML & CSS
 
 ![](https://komarev.com/ghpvc/?username=apollostudios0&color=dc143c&base=84817&label=PROFILE+VIEWS)
+[![Stats](https://gh-md-stats.vercel.app/api?username=apollostudios0&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=89b4fa&border_color=cba6f7&count_private=true&show_icons=true&include_all_commits=true&number_format=long&show=prs_merged&disable_animations=true&custom_title=Github%20Stats&rank_icon=github)]()
 
 - I am a Software Developer with 4+ years of experience in developing enterprise applications and open-source software.
 - Due to my work, most of regular projects are closed-source or hosted on an external Platform seperate from GitHub.
