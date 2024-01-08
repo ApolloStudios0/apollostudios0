@@ -7,7 +7,7 @@ This is my home, my kingdom, my little project sandbox :rofl:
 - 💬 &nbsp;Ask me about anything related to AWS, Azure, C#, JS, Lua, WPF or WinForms
 - 👨‍💻 Tech Stack: Lua, C#, Java, JavaScript, HTML & CSS
 
-![](https://komarev.com/ghpvc/?username=apollostudios0&color=dc143c&base=120000)
+![](https://komarev.com/ghpvc/?username=apollostudios0&color=dc143c)
 
 - I am a Software Developer with 4+ years of experience in developing enterprise applications and open-source software.
 - Due to my work, most of regular projects are closed-source or hosted on an external Platform seperate from GitHub.
