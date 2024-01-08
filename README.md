@@ -1,28 +1,29 @@
-### Hi there <a href="http://www.Joelwoods.uk/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is my home, my kingdom, my little project sandbox :rofl:
+<div align="center">
+ <img width="1000" src="https://raw.githubusercontent.com/ApolloStudios0/apollostudios0/main/backer.png">
+</div>
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;Certified In Software Development
-- 🌐 Profecient in HTML, CSS & Several JS Frameworks For Front-End Web Development
-- 💬 &nbsp;Ask me about anything related to AWS, Azure, C#, JS, Lua, WPF or WinForms
-- 👨‍💻 Tech Stack: Lua, C#, Java, JavaScript, HTML & CSS
+# Hi there, I'm Apollo - a [FiveM Developer][portfolio] 👋 
 
-![](https://komarev.com/ghpvc/?username=apollostudios0&color=dc143c&base=84817&label=PROFILE+VIEWS)
 [![Stats](https://gh-md-stats.vercel.app/api?username=apollostudios0&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=89b4fa&border_color=cba6f7&count_private=true&show_icons=true&include_all_commits=true&number_format=long&show=prs_merged&disable_animations=true&custom_title=Github%20Stats&rank_icon=github)]()
+<br />
+![ProfileViews](https://komarev.com/ghpvc/?username=apollostudios0&color=dc143c&base=84817&label=PROFILE+VIEWS)
 
-- I am a Software Developer with 4+ years of experience in developing enterprise applications and open-source software.
-- Due to my work, most of regular projects are closed-source or hosted on an external Platform seperate from GitHub.
+### Languages and Tools:
 
-### My Opensource Story
-My projects released as open-source on GitHub (This is not even close to the amount I work on daily!):
-- [OctoSync](https://github.com/NebulaFX/OctoSync) - This is a project which connects multiple physical EPOS terminals together via asynchronous SQL operations. In a nutshell, you enter the "Client" connection string, then enter the "server" connection string. It will sync an EPOS stock table betweeen the two stores based on: Product Name, Internal Reference Code or Supplier Code. Once the full upload has been completed, the tables are kept up-to-date in live time.
-- [Influx](https://github.com/NebulaFX/PremierEPOS_InfluxTicketing) - This is a business specific, bestoke application built for the purpose of logging customer complaints, queries and being used a base for development suggestions. Its a glorified ticketing system that breaks down a customers profile into: Invoices, PDA Connections, Terminals, License Key Adjustments and other useful support tools.
--  [Express Inventory](https://github.com/NebulaFX/-In-Dev-Express-Inventory) - Express Inventory is a modern inventory, replenishment and order management system for growing businesses. This is combined with a Key Management Server (AWS) to assist in providing secure transactions and user authentication.
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Lua" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
-[⏩ &nbsp; and many more](https://github.com/NebulaFX?tab=repositories) 
+<br />
+<br />
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Frameworks&nbsp;</b></summary>
-  <br/>
-  <p align="left"> <a href="https://expressjs.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" alt="c#" width="40" height="40"/> <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/> <a href="https://nodejs.org/en/" target="_blank"> <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="node" width="40" height="40"/></a>
-</details>
+---
+
+[portfolio]: https://apollostudios0.github.io/ApolloPortfolio/
