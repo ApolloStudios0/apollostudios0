@@ -7,7 +7,7 @@ This is my home, my kingdom, my little project sandbox :rofl:
 - 💬 &nbsp;Ask me about anything related to AWS, Azure, C#, JS, Lua, WPF or WinForms
 - 👨‍💻 Tech Stack: Lua, C#, Java, JavaScript, HTML & CSS
 
-  ![](https://hit.yhype.me/github/profile?user_id=62919604&base=120000)
+  ![](https://hit.yhype.me/github/profile?user_id=62919604)
 
 - I am a Software Developer with 4+ years of experience in developing enterprise applications and open-source software.
 - Due to my work, most of regular projects are closed-source or hosted on an external Platform seperate from GitHub.
