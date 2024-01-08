@@ -26,4 +26,16 @@
 
 ---
 
+### Who Am I?
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;Certified In Development Operations & Software Development
+- 🌐 &nbsp;I work with many different programming languages & use many different tools.
+- 💬 &nbsp;I'm always available to lend a hand. Got a question? Contact me on discord @ apollostudios and I'll guide you through the problem.
+- 👨‍💻 &nbsp;Tech Stack: Lua, C#, Java, JavaScript, HTML & CSS, SQL, AWS, Azure, SASS, Node
+
+### FiveM Operations
+- 🔥&nbsp;I've been working with the CFX framework since its very early days - even before it was called FiveM!
+- 🔥&nbsp;I've been working with Lua for many years, so it was a smooth introduction to FiveM.
+- 🔥&nbsp;I've been studying UI/UX for the last several years. Check out my portfolio to see some of my web projects. However, I'm always learning new tricks.
+
 [portfolio]: https://apollostudios0.github.io/ApolloPortfolio/
